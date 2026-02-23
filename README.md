@@ -10,5 +10,8 @@ Python-based AI Resume Screening tool.
 ## Setup
 pip install -r requirements.txt
 
-## Run
-python app.py
+## Activate virtual environment
+source .venv/bin/activate
+
+## Run app:
+streamlit run app.py
