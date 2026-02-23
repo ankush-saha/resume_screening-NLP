@@ -15,3 +15,6 @@ source .venv/bin/activate
 
 ## Run app:
 streamlit run app.py
+
+## Author
+Ankush Saha
